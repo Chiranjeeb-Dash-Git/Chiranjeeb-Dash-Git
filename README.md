@@ -14,13 +14,13 @@ Building complex, scalable web applications with the **MERN stack**, while deep-
 | 🧠 **LLMs & Tools** | Groq (Llama 3.3) · GPT-4o · Gemini 2.0 · Tavily AI · n8n |
 | 💻 **Frontend** | Next.js 15 · React 19 · Tailwind CSS · Shadcn/UI · Bootstrap · Material UI |
 | ⚙️ **Backend** | Node.js · Express · MongoDB · SQL · REST APIs · EJS · JWT |
-| ☁️ **DevOps** | Docker · Git · AWS · Render · Cloudinary |
+| ☁️ **DevOps** | Docker · Git  · Render · Cloudinary |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌌 QuantumQuery — AI Agent Platform
+### 🌌 QuantumQuery — AI Agent Platform     https://quantumquery-ai-agent.onrender.com/
 > Agentic search & multi-model platform synthesizing real-time web data with LLMs.
 
 - **Agentic Search** — Tavily API integration to bypass knowledge cutoffs for live data
@@ -38,7 +38,7 @@ Building complex, scalable web applications with the **MERN stack**, while deep-
 
 ---
 
-### 📈 Zerodha Clone — Trading Platform
+### 📈 Zerodha Clone — Trading Platform   https://chiranjeeb-dash-git.github.io/Zerodha-/
 > Fintech platform with real-time market insights.
 
 - WebSockets for live market data and automated P&L tracking
