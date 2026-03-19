@@ -1,5 +1,65 @@
-# 💫 About Me:
-💫 About Me<br>👋 Hi, I’m Chiranjeeb Dash<br>🎓 B.Tech graduate in Computer Science & Engineering from Biju Patnaik University of Technology, Odisha.<br>💻 Full-Stack Developer based in Bhubaneswar, Odisha. I specialize in building complex, scalable web applications using the MERN stack and am currently deep-diving into the world of Agentic AI and Production-grade AI Automation.<br>________________________________________<br>🛠️ Technical Ecosystem<br>Category	Technologies<br>🤖 AI Orchestration	LangChain.js, LangGraph.js, Tool Calling, Structured Output (Zod)<br>🧠 LLMs & Tools	Groq (Llama 3.3), GPT-4o, Gemini 2.0, Tavily AI (Agentic Search), n8n<br>💻 Frontend	Next.js 15, React 19, Tailwind CSS, Shadcn/UI, Bootstrap, Material UI<br>⚙️ Backend	Node.js, Express, MongoDB, SQL, REST APIs, EJS, JWT<br>☁️ DevOps	Docker, Git, AWS, Render, Cloudinary<br>________________________________________<br>💼 Featured Projects<br>🌌 QuantumQuery AI Agent<br>___________________________________________________________________________<br>Agentic Search & Multi-Model Platform synthesizing real-time web data with LLMs.<br>•	🔍 Agentic Search: Integrated Tavily API to bypass knowledge cutoffs for live data.<br>•	🔀 Multi-Model Orchestration: Provider-agnostic system for Groq, OpenAI, and Gemini.<br>•	📋 Structured Engine: Used Zod for schema-validated outputs.<br>•	🎨 UX: Quantum themed UI with inference tracking.<br><br>🏡 Airbnb Global stay network<br>___________________________________________________________________________<br>Full-stack rental platform with user authentication and property management.<br>•	🏗️ Built with Node.js, Express, and MongoDB using modular MVC architecture.<br>•	🔐 Features secure JWT authentication and dynamic property filtering.<br><br>📈 Zerodha Trading Platform<br>____________________________________________________________<br>Fintech trading platform with real-time market insights.<br>•	⚡ Implemented WebSockets for live market data and automated P&L tracking.<br>•	📊 Interactive dashboards built with React and high-performance data fetching.<br>_______________________________________________________<br>🤖 Current Focus (2026)<br>•	⛓️ LangGraph.js: Building cyclic, stateful multi-agent orchestrations.<br>•	⚙️ n8n: Engineering complex, low-code/no-code AI automation pipelines.<br>•	🧠 Production RAG: Scaling context-aware retrieval for enterprise-level data.<br>_______________________________________________________<br>🎓 Education & Certifications<br>•	🎓 B.Tech (CSE): Biju Patnaik University of Technology (BPUT)<br>•	📜 Diploma Engineering: CIPET, Bhubaneswar<br>•	🏅 Certifications: Full Stack MERN Development | Production AI Agents (LangChain/LangGraph)<br>_______________________________________________________<br>📫 Reach me at: chiranjeeb.email@gmail.com<br>
+# 👋 Hi, I'm Chiranjeeb Dash
+
+**Full-Stack Developer** · Bhubaneswar, Odisha &nbsp;|&nbsp; B.Tech CSE — Biju Patnaik University of Technology
+
+Building complex, scalable web applications with the **MERN stack**, while deep-diving into **Agentic AI** and **AI Automation**.
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer | Technologies |
+|-------|-------------|
+| 🤖 **AI Orchestration** | LangChain.js · LangGraph.js · Tool Calling · Structured Output (Zod) |
+| 🧠 **LLMs & Tools** | Groq (Llama 3.3) · GPT-4o · Gemini 2.0 · Tavily AI · n8n |
+| 💻 **Frontend** | Next.js 15 · React 19 · Tailwind CSS · Shadcn/UI · Bootstrap · Material UI |
+| ⚙️ **Backend** | Node.js · Express · MongoDB · SQL · REST APIs · EJS · JWT |
+| ☁️ **DevOps** | Docker · Git · AWS · Render · Cloudinary |
+
+---
+
+## 🚀 Featured Projects
+
+### 🌌 QuantumQuery — AI Agent Platform
+> Agentic search & multi-model platform synthesizing real-time web data with LLMs.
+
+- **Agentic Search** — Tavily API integration to bypass knowledge cutoffs for live data
+- **Multi-Model Orchestration** — Provider-agnostic routing across Groq, OpenAI & Gemini
+- **Structured Engine** — Zod schema-validated outputs for reliable, typed responses
+- **Quantum UI** — Themed interface with real-time inference tracking
+
+---
+
+### 🏡 Airbnb Clone — Global Stay Network
+> Full-stack rental platform with authentication and property management.
+
+- MVC architecture using Node.js, Express & MongoDB
+- Secure JWT authentication with dynamic property filtering
+
+---
+
+### 📈 Zerodha Clone — Trading Platform
+> Fintech platform with real-time market insights.
+
+- WebSockets for live market data and automated P&L tracking
+- Interactive dashboards with React and high-performance data fetching
+
+---
+
+## 🎯 Current Focus (2026)
+
+- **LangGraph.js** — Building cyclic, stateful multi-agent orchestrations
+- **n8n** — Engineering complex low-code / no-code AI automation pipelines
+- **Production RAG** — Scaling context-aware retrieval for enterprise-level data
+
+---
+
+## 🎓 Education & Certifications
+
+- 🎓 **B.Tech (CSE)** — Biju Patnaik University of Technology (BPUT)
+- 📜 **Diploma Engineering** — CIPET, Bhubaneswar
+- 🏅 Full Stack MERN Development
+- 🏅 Production AI Agents (LangChain / LangGraph)
 
 
 ## 🌐 Socials:
