@@ -59,9 +59,10 @@ Building complex, scalable web applications with the **MERN stack**, while deep-
 ## 🎓 Education & Certifications
 
 - 🎓 **B.Tech (CSE)** — Biju Patnaik University of Technology (BPUT)
-- 📜 **Diploma Engineering** — CIPET, Bhubaneswar
+- 📜 **Diploma Engineering** 
 - 🏅 Full Stack MERN Development
 - 🏅 Production AI Agents (LangChain / LangGraph)
+- 🏅 N8N AI AGENT Automation
 
 
 ## 🌐 Socials:
