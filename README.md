@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chiranjeeb Dash
 
-**Full-Stack Developer** · Bhubaneswar, Odisha &nbsp;|&nbsp; B.Tech CSE — Biju Patnaik University of Technology
+**Full-Stack Developer** · Odisha &nbsp;|&nbsp; B.Tech CSE 
 
 Building complex, scalable web applications with the **MERN stack**, while deep-diving into **Agentic AI** and **AI Automation**.
 
