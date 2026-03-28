@@ -32,7 +32,7 @@ Building complex, scalable web applications with the **MERN stack**, while deep-
 
 ---
 
-### 🏡 Airbnb Clone — Global Stay Network
+### 🏡 Airbnb Clone — Global Stay Network  https://airbnb-global-stay-network.onrender.com/
 > Full-stack rental platform with authentication and property management.
 
 - MVC architecture using Node.js, Express & MongoDB
