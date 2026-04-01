@@ -1,91 +1,87 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FF&height=200&section=header&text=✨%20CHIRANJEEB%20DASH%20✨&fontSize=50&animation=fadeIn&fontColor=000000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FF&height=250&section=header&text=✨%20CHIRANJEEB%20DASH%20✨&fontSize=70&animation=fadeIn&fontColor=000000&fontAlignY=35" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=Full-Stack+MERN+Developer;AI-Integrated+Web+App+Specialist;Fintech+Systems+Expert;Scalable+Software+Architect" alt="Typing SVG" />
-</p>
+# <p align="center">🚀 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=NEXT-GEN+FULLStack+DEVELOPER;AI-INTEGRATED+MERN+ARCHITECT;FINTECH+SYSTEMS+EXPERT;SCALABLE+SOFTWARE+ENGINEER" alt="Typing SVG" /> 🚀</p>
 
+---
+
+## 🌊 <img src="https://img.icons8.com/color/48/000000/mission-impossible.png" width="25"/> CURRENT CONSOLE STATUS
 <p align="center">
-  <a href="mailto:chiranjeeb.email@gmail.com"><img src="https://img.shields.io/badge/Email-00F2FF?style=for-the-badge&logo=gmail&logoColor=black" /></a>
-  <a href="https://github.com/Chiranjeeb-Dash-Git"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chiranjeeb-Dash-Git&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FF&text_color=FFFFFF&icon_color=00F2FF" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiranjeeb-Dash-Git&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FF&text_color=FFFFFF" width="44%" />
 </p>
 
 ---
 
-### 🌊 CURRENT_MISSION: Building High-Performance, AI-Powered Web Ecosystems
-Specializing in the **MERN Stack** with a focus on seamless **AI Integration**, real-time data streaming, and production-grade software architecture.
-
----
-
-## 🛠️ CORE ARCHITECTURE
+## 🛠️ THE CORE ARCHITECTURE (CYAN-MODE)
 
 <div align="center">
 
-### 💻 Frontend & UI/UX
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap,mui,framer&theme=dark" />
+### 💠 FRONTEND STACK
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap,mui,framer&theme=dark)](https://skillicons.dev)
 
-### ⚙️ Backend & Systems
-<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,apollo,postman,npm&theme=dark" />
+### ⚡ BACKEND ENGINE
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,graphql,apollo,postman,npm&theme=dark)](https://skillicons.dev)
 
-### 🧠 AI & Cloud Database
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,vercel,github,git&theme=dark" />
+### 🧠 INTELLIGENCE & CLOUD
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,docker,vercel,github,git&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## 🚀 FLAGSHIP PROJECTS (Live Deployments)
+## 🚀 ACTIVE DEPLOYMENTS (Vercel & Render)
 
-### 🤖 [GEN-AI ASSISTANT](https://full-stack-gen-ai-assistant.vercel.app/)
-> **AI-Integrated Dashboard.** A high-performance LLaMA 3.3 console with multi-modal PDF parsing and voice intelligence.
-- **Stack:** Next.js 14 · Groq · LLaMA 3.3 70B · Voice STT/TTS · OCR 
-- [**Explore Live Console**](https://full-stack-gen-ai-assistant.vercel.app/) 🚀
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://full-stack-gen-ai-assistant.vercel.app/">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=00F2FF&height=150&text=GEN-AI%20ASSISTANT&fontSize=25&fontColor=000000&desc=MERN%20+%20Groq%20AI&descAlignY=65&descSize=15" />
+      </a>
+    </td>
+    <td>
+      <a href="https://chiranjeeb-dash-git.github.io/Zerodha-/">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=181717&height=150&text=ZERODHA%20CLONE&fontSize=25&fontColor=00F2FF&desc=Fintech%20+%20WebSockets&descAlignY=65&descSize=15" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://quantumquery-ai-agent.onrender.com/">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=181717&height=150&text=QUANTUM%20QUERY&fontSize=25&fontColor=00F2FF&desc=Agentic%20Search%20Agent&descAlignY=65&descSize=15" />
+      </a>
+    </td>
+    <td>
+      <a href="https://airbnb-global-stay-network.onrender.com/">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=00F2FF&height=150&text=AIRBNB%20CLONE&fontSize=25&fontColor=000000&desc=Production%20MVC%20Marketplace&descAlignY=65&descSize=15" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📈 [ZERODHA TRADING — FINTECH](https://chiranjeeb-dash-git.github.io/Zerodha-/)
-> **Real-Time Market Execution.** A professional trading dashboard with live WebSockets data and automated P&L tracking.
-- **Stack:** React.js · WebSockets · Fintech Data Models · Async Fetching
-- [**View Trading Desk**](https://chiranjeeb-dash-git.github.io/Zerodha-/) 📊
-
----
-
-### 🌌 [QUANTUM QUERY — AI SEARCH AGENT](https://quantumquery-ai-agent.onrender.com/)
-> **Real-Time Data Synthesis.** An AI-integrated search platform that synthesizes live web results into structured intelligence.
-- **Stack:** Multi-Model Routing · Tavily AI · Zod Schema Validation
-- [**Launch Agent**](https://quantumquery-ai-agent.onrender.com/) ⚡
-
----
-
-### 🏡 [GLOBAL STAY — AIRBNB](https://airbnb-global-stay-network.onrender.com/)
-> **Production-Ready MVC.** A high-traffic rental architecture with multi-tier auth and cloud media management.
-- **Stack:** Node · Express · MongoDB · JWT · Cloudinary
-- [**Visit Marketplace**](https://airbnb-global-stay-network.onrender.com/) 🏠
-
----
-
-## 📊 ANALYTICS & INSIGHTS
-
+## 📈 PERFORMANCE TRACKING
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chiranjeeb-Dash-Git&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiranjeeb-Dash-Git&theme=tokyonight&layout=compact&hide_border=true" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chiranjeeb-Dash-Git&theme=tokyonight&hide_border=true" width="94%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chiranjeeb-Dash-Git&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FF&fire=00F2FF&currStreakNum=00F2FF" width="94%" />
 </p>
 
 ---
 
-## 🎓 EDUCATION & CREDENTIALS
-- 🎓 **B.Tech (CSE)** — Biju Patnaik University of Technology (BPUT)
-- 🏅 Full Stack MERN Development Specialist
-- 🏅 Advanced AI-Integration in Web Environments
-- 🏅 Production AI Agents with JavaScript: LangChain & LangGraph
+## 🎓 CREDENTIALS & SPECIALIZATIONS
+- 🔹 **B.Tech (CSE)** — Biju Patnaik University of Technology (BPUT)
+- 🔹 **Full Stack MERN Development Specialist**
+- 🔹 **Advanced AI-Integration in Web Environments**
+- 🔹 **Production AI Agents: LangChain & LangGraph Expert**
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FF&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FF&height=120&section=footer&animation=twinkle" width="100%"/>
+</p>
+
+<p align="center">
+  <a href="mailto:chiranjeeb.email@gmail.com"><img src="https://img.shields.io/badge/CONTACT-ME-00F2FF?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+  <a href="https://github.com/Chiranjeeb-Dash-Git"><img src="https://img.shields.io/badge/VISIT-REPOS-00F2FF?style=for-the-badge&logo=github&logoColor=black" /></a>
 </p>
