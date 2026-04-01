@@ -79,6 +79,7 @@ Specializing in the **MERN Stack** with a focus on seamless **AI Integration**, 
 - 🎓 **B.Tech (CSE)** — Biju Patnaik University of Technology (BPUT)
 - 🏅 Full Stack MERN Development Specialist
 - 🏅 Advanced AI-Integration in Web Environments
+- 🏅 Production AI Agents with JavaScript: LangChain & LangGraph
 
 ---
 
