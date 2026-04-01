@@ -1,30 +1,37 @@
-# <p align="center">✨ CHIRANJEEB DASH ✨</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FF&height=200&section=header&text=✨%20CHIRANJEEB%20DASH%20✨&fontSize=50&animation=fadeIn&fontColor=000000" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=Full-Stack+MERN+Developer;AI-Integrated+Web+App+Specialist;Fintech+Systems+Expert;Scalable+Software+Architect" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="mailto:chiranjeeb.email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:chiranjeeb.email@gmail.com"><img src="https://img.shields.io/badge/Email-00F2FF?style=for-the-badge&logo=gmail&logoColor=black" /></a>
   <a href="https://github.com/Chiranjeeb-Dash-Git"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🟢 CURRENT_MISSION: Building High-Performance, AI-Powered Web Ecosystems
+### 🌊 CURRENT_MISSION: Building High-Performance, AI-Powered Web Ecosystems
 Specializing in the **MERN Stack** with a focus on seamless **AI Integration**, real-time data streaming, and production-grade software architecture.
 
 ---
 
 ## 🛠️ CORE ARCHITECTURE
 
+<div align="center">
+
 ### 💻 Frontend & UI/UX
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap,mui,framer" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap,mui,framer&theme=dark" />
 
 ### ⚙️ Backend & Systems
-<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,apollo,postman,npm" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,apollo,postman,npm&theme=dark" />
 
 ### 🧠 AI & Cloud Database
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,vercel,github,git" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,vercel,github,git&theme=dark" />
+
+</div>
 
 ---
 
@@ -32,7 +39,6 @@ Specializing in the **MERN Stack** with a focus on seamless **AI Integration**, 
 
 ### 🤖 [GEN-AI ASSISTANT](https://full-stack-gen-ai-assistant.vercel.app/)
 > **AI-Integrated Dashboard.** A high-performance LLaMA 3.3 console with multi-modal PDF parsing and voice intelligence.
-
 - **Stack:** Next.js 14 · Groq · LLaMA 3.3 70B · Voice STT/TTS · OCR 
 - [**Explore Live Console**](https://full-stack-gen-ai-assistant.vercel.app/) 🚀
 
@@ -40,7 +46,6 @@ Specializing in the **MERN Stack** with a focus on seamless **AI Integration**, 
 
 ### 📈 [ZERODHA TRADING — FINTECH](https://chiranjeeb-dash-git.github.io/Zerodha-/)
 > **Real-Time Market Execution.** A professional trading dashboard with live WebSockets data and automated P&L tracking.
-
 - **Stack:** React.js · WebSockets · Fintech Data Models · Async Fetching
 - [**View Trading Desk**](https://chiranjeeb-dash-git.github.io/Zerodha-/) 📊
 
@@ -48,7 +53,6 @@ Specializing in the **MERN Stack** with a focus on seamless **AI Integration**, 
 
 ### 🌌 [QUANTUM QUERY — AI SEARCH AGENT](https://quantumquery-ai-agent.onrender.com/)
 > **Real-Time Data Synthesis.** An AI-integrated search platform that synthesizes live web results into structured intelligence.
-
 - **Stack:** Multi-Model Routing · Tavily AI · Zod Schema Validation
 - [**Launch Agent**](https://quantumquery-ai-agent.onrender.com/) ⚡
 
@@ -56,7 +60,6 @@ Specializing in the **MERN Stack** with a focus on seamless **AI Integration**, 
 
 ### 🏡 [GLOBAL STAY — AIRBNB](https://airbnb-global-stay-network.onrender.com/)
 > **Production-Ready MVC.** A high-traffic rental architecture with multi-tier auth and cloud media management.
-
 - **Stack:** Node · Express · MongoDB · JWT · Cloudinary
 - [**Visit Marketplace**](https://airbnb-global-stay-network.onrender.com/) 🏠
 
@@ -84,5 +87,5 @@ Specializing in the **MERN Stack** with a focus on seamless **AI Integration**, 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FF&height=100&section=footer" width="100%"/>
 </p>
