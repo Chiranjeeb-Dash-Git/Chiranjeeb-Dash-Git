@@ -30,7 +30,7 @@ Specializing in the **MERN Stack** with a focus on seamless **AI Integration**, 
 
 ## 🚀 FLAGSHIP PROJECTS (Live Deployments)
 
-### 🤖 [GEN-AI ASSISTANT (SKETCH UI)](https://full-stack-gen-ai-assistant.vercel.app/)
+### 🤖 [GEN-AI ASSISTANT](https://full-stack-gen-ai-assistant.vercel.app/)
 > **AI-Integrated Dashboard.** A high-performance LLaMA 3.3 console with multi-modal PDF parsing and voice intelligence.
 
 - **Stack:** Next.js 14 · Groq · LLaMA 3.3 70B · Voice STT/TTS · OCR 
@@ -38,7 +38,7 @@ Specializing in the **MERN Stack** with a focus on seamless **AI Integration**, 
 
 ---
 
-### 📈 [ZERODHA TRADING — FINTECH CLONE](https://chiranjeeb-dash-git.github.io/Zerodha-/)
+### 📈 [ZERODHA TRADING — FINTECH](https://chiranjeeb-dash-git.github.io/Zerodha-/)
 > **Real-Time Market Execution.** A professional trading dashboard with live WebSockets data and automated P&L tracking.
 
 - **Stack:** React.js · WebSockets · Fintech Data Models · Async Fetching
@@ -54,7 +54,7 @@ Specializing in the **MERN Stack** with a focus on seamless **AI Integration**, 
 
 ---
 
-### 🏡 [GLOBAL STAY — AIRBNB PRO](https://airbnb-global-stay-network.onrender.com/)
+### 🏡 [GLOBAL STAY — AIRBNB](https://airbnb-global-stay-network.onrender.com/)
 > **Production-Ready MVC.** A high-traffic rental architecture with multi-tier auth and cloud media management.
 
 - **Stack:** Node · Express · MongoDB · JWT · Cloudinary
