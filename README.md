@@ -11,23 +11,16 @@
 ---
 
 ### 🟢 CURRENT_MISSION: Building High-Performance, AI-Powered Web Ecosystems
-Specializing in the **MERN Stack** (MongoDB, Express, React, Node) with a focus on seamless **AI Integration**, real-time data streaming, and production-grade software architecture.
+Specializing in the **MERN Stack** with a focus on seamless **AI Integration**, real-time data streaming, and production-grade software architecture.
 
 ---
 
-## 🛠️ ARCHITECTURE & TECH STACK
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="25%"><br>💻 <b>FRONTEND</b><br><hr>Next.js 15<br>React 19<br>Tailwind CSS v4<br>Framer Motion</td>
-    <td align="center" width="25%"><br>⚙️ <b>BACKEND</b><br><hr>Node.js<br>Express.js<br>WebSockets<br>REST APIs</td>
-    <td align="center" width="25%"><br>🧠 <b>AI INTEGRATION</b><br><hr>Groq API<br>Llama 3.3 / GPT-4<br>Tavily Search API<br>Context-Aware RAG</td>
-    <td align="center" width="25%"><br>☁️ <b>DATABASE & CLOUD</b><br><hr>MongoDB Atlas<br>SQL<br>Cloudinary Media<br>Vercel / Docker</td>
-  </tr>
-</table>
+## 🛠️ ARCHITECTURE & TECH STACKS
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,mongodb,js,ts,docker,vercel,github,git" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap,mui,framer" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman,graphql,apollo" /><br>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,docker,vercel,github,git" />
 </p>
 
 ---
