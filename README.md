@@ -62,13 +62,6 @@
 
 ---
 
-## 📈 PERFORMANCE TRACKING
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chiranjeeb-Dash-Git&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FF&fire=00F2FF&currStreakNum=00F2FF" width="94%" />
-</p>
-
----
-
 ## 📞 CONNECT WITH ME
 <p align="center">
   <a href="mailto:chiranjeeb.email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
