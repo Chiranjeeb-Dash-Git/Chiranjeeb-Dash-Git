@@ -45,6 +45,4 @@
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap,mui,framer&theme=dark)](https://skillicons.dev)
 
 ### ⚡ Backend & Logic
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,graphql,apollo,postman,npm&theme=dark)](https://skillicons.dev)
-
-###
+[![
