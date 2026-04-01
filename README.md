@@ -22,10 +22,19 @@ Building complex, scalable web applications with the **MERN stack**, while deep-
 
 ## 🚀 Featured Projects
 
-### 🤖 Full-Stack GenAI Assistant   https://full-stack-gen-ai-assistant-i3cq0jkx7.vercel.app/  
-> A premium, high-speed Artificial Intelligence console designed with a unique, responsive "Sketch" user interface. Engineered for maximum productivity, real-time streaming interactivity, and enterprise-level multimodal AI workflows.//
--Frontend : Next.js 14, React (Tailwind v3)
--Backend  : Express.js, Node.js
+### 🤖 [Full-Stack GenAI Assistant](https://full-stack-gen-ai-assistant-i3cq0jkx7.vercel.app/)
+
+> A premium, high-speed AI console with a unique **"Sketch" UI** — built for real-time streaming, voice intelligence, and enterprise-level multimodal workflows.
+
+🔗 **[Live Demo](https://full-stack-gen-ai-assistant-i3cq0jkx7.vercel.app/)** &nbsp;|&nbsp; ⭐ **[GitHub Repo](https://github.com/Chiranjeeb-Dash-Git/Full-Stack_GenAI-Assistant)**
+
+| Layer | Stack |
+|---|---|
+| **Frontend** | Next.js 14, React, Tailwind CSS v3 |
+| **Backend** | Express.js, Node.js |
+| **AI Engine** | Groq API (LLaMA 3.3 70B) |
+| **Features** | Streaming · Voice STT/TTS · PDF Parsing · Message Editing · Dark Mode |
+
 
 ---
 
