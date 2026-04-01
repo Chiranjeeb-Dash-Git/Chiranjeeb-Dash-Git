@@ -22,72 +22,77 @@ Building complex, scalable web applications with the **MERN stack**, while deep-
 
 ## 🚀 Featured Projects
 
-### 🤖 [Full-Stack GenAI Assistant](https://full-stack-gen-ai-assistant-i3cq0jkx7.vercel.app/)
+### 🤖 [Full-Stack GenAI Assistant](https://full-stack-gen-ai-assistant.vercel.app/)
+> A premium AI console with a unique **"Sketch" UI** — built for real-time streaming, voice intelligence, and enterprise-level multimodal workflows.
 
-> A premium, high-speed AI console with a unique **"Sketch" UI** — built for real-time streaming, voice intelligence, and enterprise-level multimodal workflows.
-
-🔗 **[Live Demo](https://full-stack-gen-ai-assistant-i3cq0jkx7.vercel.app/)** &nbsp;|&nbsp; ⭐ **[GitHub Repo](https://github.com/Chiranjeeb-Dash-Git/Full-Stack_GenAI-Assistant)**
+🔗 **[Live Demo](https://full-stack-gen-ai-assistant.vercel.app/)** &nbsp;|&nbsp; ⭐ **[GitHub Repo](https://github.com/Chiranjeeb-Dash-Git/Full-Stack_GenAI-Assistant)**
 
 | Layer | Stack |
 |---|---|
 | **Frontend** | Next.js 14, React, Tailwind CSS v3 |
 | **Backend** | Express.js, Node.js |
 | **AI Engine** | Groq API (LLaMA 3.3 70B) |
-| **Features** | Streaming · Voice STT/TTS · PDF Parsing · Message Editing · Dark Mode |
-
-
----
-
-### 🌌 QuantumQuery — AI Agent Platform     https://quantumquery-ai-agent.onrender.com/
-> Agentic search & multi-model platform synthesizing real-time web data with LLMs.
-
-- **Agentic Search** — Tavily API integration to bypass knowledge cutoffs for live data
-- **Multi-Model Orchestration** — Provider-agnostic routing across Groq, OpenAI & Gemini
-- **Structured Engine** — Zod schema-validated outputs for reliable, typed responses
-- **Quantum UI** — Themed interface with real-time inference tracking
+| **Features** | Streaming · Voice STT/TTS · PDF Parsing · Message Editing |
 
 ---
 
-### 🏡 Airbnb Clone — Global Stay Network  https://airbnb-global-stay-network.onrender.com/
-> Full-stack rental platform with authentication and property management.
+### 🌌 [QuantumQuery — AI Agent Platform](https://quantumquery-ai-agent.onrender.com/)
+> Agentic search & multi-model platform synthesizing **real-time web data** with LLMs for always-current, validated responses.
 
-- MVC architecture using Node.js, Express & MongoDB
-- Secure JWT authentication with dynamic property filtering
+🔗 **[Live Demo](https://quantumquery-ai-agent.onrender.com/)** &nbsp;|&nbsp; ⭐ **[GitHub Repo](https://github.com/Chiranjeeb-Dash-Git)**
+
+| Layer | Stack |
+|---|---|
+| **AI Models** | Groq, OpenAI, Gemini (Provider-Agnostic Routing) |
+| **Agentic Search** | Tavily API (Real-time live data) |
+| **Schema Engine** | Zod (Structured outputs) |
+| **Features** | Multi-Model · Agentic Search · Structured Outputs |
 
 ---
 
-### 📈 Zerodha Clone — Trading Platform   https://chiranjeeb-dash-git.github.io/Zerodha-/
-> Fintech platform with real-time market insights.
+### 🏡 [Airbnb Clone — Global Stay Network](https://airbnb-global-stay-network.onrender.com/)
+> Full-stack rental platform with cloud media storage and dynamic property management built on a production-grade MBC architecture.
 
-- WebSockets for live market data and automated P&L tracking
-- Interactive dashboards with React and high-performance data fetching
+🔗 **[Live Demo](https://airbnb-global-stay-network.onrender.com/)** &nbsp;|&nbsp; ⭐ **[GitHub Repo](https://github.com/Chiranjeeb-Dash-Git)**
+
+| Layer | Stack |
+|---|---|
+| **Backend** | Node.js, Express.js, MongoDB (MVC) |
+| **Auth** | JWT (JSON Web Tokens) Session Management |
+| **Media** | Cloudinary Management |
+| **Features** | Auth · Property Listings · Dynamic Filtering · Reviews |
+
+---
+
+### 📈 [Zerodha Clone — Trading Platform](https://chiranjeeb-dash-git.github.io/Zerodha-/)
+> Fintech platform replicating a professional trading experience with real-time market insights and high-performance dashboards.
+
+🔗 **[Live Demo](https://chiranjeeb-dash-git.github.io/Zerodha-/)** &nbsp;|&nbsp; ⭐ **[GitHub Repo](https://github.com/Chiranjeeb-Dash-Git/Zerodha-)**
+
+| Layer | Stack |
+|---|---|
+| **Frontend** | React.js Dashboards |
+| **Real-time** | WebSockets Market Data |
+| **Finance** | Automated P&L Tracker |
+| **Features** | Live Markets · P&L Tracker · Portfolio View |
 
 ---
 
 ## 🎯 Current Focus (2026)
-
-- **LangGraph.js** — Building cyclic, stateful multi-agent orchestrations
-- **n8n** — Engineering complex low-code / no-code AI automation pipelines
-- **Production RAG** — Scaling context-aware retrieval for enterprise-level data
-
----
+- **LangGraph.js** — Building cyclic, stateful multi-agent orchestrations.
+- **n8n** — Engineering complex low-code / no-code AI automation pipelines.
+- **Production RAG** — Scaling context-aware retrieval for enterprise data.
 
 ## 🎓 Education & Certifications
-
 - 🎓 **B.Tech (CSE)** — Biju Patnaik University of Technology (BPUT)
-- 📜 **Diploma Engineering** 
 - 🏅 Full Stack MERN Development
 - 🏅 Production AI Agents (LangChain / LangGraph)
 - 🏅 N8N AI AGENT Automation
 
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chiranjeeb.email@gmail.com) 
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Chiranjeeb-Dash-Git&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Chiranjeeb-Dash-Git&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiranjeeb-Dash-Git&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
