@@ -22,6 +22,13 @@ Building complex, scalable web applications with the **MERN stack**, while deep-
 
 ## 🚀 Featured Projects
 
+### 🤖 Full-Stack GenAI Assistant   https://full-stack-gen-ai-assistant-i3cq0jkx7.vercel.app/  
+> A premium, high-speed Artificial Intelligence console designed with a unique, responsive "Sketch" user interface. Engineered for maximum productivity, real-time streaming interactivity, and enterprise-level multimodal AI workflows.
+> Frontend : Next.js 14, React (Tailwind v3)
+> Backend	 : Express.js, Node.js
+
+---
+
 ### 🌌 QuantumQuery — AI Agent Platform     https://quantumquery-ai-agent.onrender.com/
 > Agentic search & multi-model platform synthesizing real-time web data with LLMs.
 
