@@ -1,6 +1,6 @@
 # <p align="center">✨ CHIRANJEEB DASH ✨</p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=Full-Stack+MERN+Developer;Agentic+AI+Engineer;LangGraph+Orchestrator;Automation+Expert+(n8n)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=Full-Stack+MERN+Developer;AI-Integrated+Web+App+Specialist;Fintech+Systems+Expert;Scalable+Software+Architect" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,8 +10,8 @@
 
 ---
 
-### 🟢 CURRENT_MISSION: Engineering the future of Agentic Workflows
-Building autonomous, stateful AI systems that don't just "chat," but **execute tasks** using LangGraph, Tool-Calling, and Production RAG.
+### 🟢 CURRENT_MISSION: Building High-Performance, AI-Powered Web Ecosystems
+Specializing in the **MERN Stack** (MongoDB, Express, React, Node) with a focus on seamless **AI Integration**, real-time data streaming, and production-grade software architecture.
 
 ---
 
@@ -19,9 +19,10 @@ Building autonomous, stateful AI systems that don't just "chat," but **execute t
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="33%"><br>🤖 <b>AI AGENTS</b><br><hr>LangGraph.js<br>LangChain<br>Structured Output<br>Tavily / Search Tools</td>
-    <td align="center" width="33%"><br>💻 <b>FRONTEND</b><br><hr>Next.js 15 (App Router)<br>React 19<br>Tailwind CSS v4<br>Framer Motion</td>
-    <td align="center" width="33%"><br>⚙️ <b>BACKEND & CLOUD</b><br><hr>Node / Express<br>MongoDB Atlas<br>Docker / Render<br>Vercel Edge</td>
+    <td align="center" width="25%"><br>💻 <b>FRONTEND</b><br><hr>Next.js 15<br>React 19<br>Tailwind CSS v4<br>Framer Motion</td>
+    <td align="center" width="25%"><br>⚙️ <b>BACKEND</b><br><hr>Node.js<br>Express.js<br>WebSockets<br>REST APIs</td>
+    <td align="center" width="25%"><br>🧠 <b>AI INTEGRATION</b><br><hr>Groq API<br>Llama 3.3 / GPT-4<br>Tavily Search API<br>Context-Aware RAG</td>
+    <td align="center" width="25%"><br>☁️ <b>DATABASE & CLOUD</b><br><hr>MongoDB Atlas<br>SQL<br>Cloudinary Media<br>Vercel / Docker</td>
   </tr>
 </table>
 
@@ -31,22 +32,28 @@ Building autonomous, stateful AI systems that don't just "chat," but **execute t
 
 ---
 
-## 🚀 FLAGSHIP ASSISTANTS (Live Deployments)
+## 🚀 FLAGSHIP PROJECTS (Live Deployments)
 
 ### 🤖 [GEN-AI ASSISTANT (SKETCH UI)](https://full-stack-gen-ai-assistant.vercel.app/)
-> **The Apex of Minimalist AI UX.** A high-performance LLaMA 3.3 console with multi-modal PDF parsing and voice intelligence.
+> **AI-Integrated Dashboard.** A high-performance LLaMA 3.3 console with multi-modal PDF parsing and voice intelligence.
 
 - **Stack:** Next.js 14 · Groq · LLaMA 3.3 70B · Voice STT/TTS · OCR 
-- **Unique:** Interactive "Sketch" theme with dynamic message branching for conversation forking.
 - [**Explore Live Console**](https://full-stack-gen-ai-assistant.vercel.app/) 🚀
 
 ---
 
-### 🌌 [QUANTUM QUERY — AGENTIC SEARCH](https://quantumquery-ai-agent.onrender.com/)
-> **Bypassing AI Knowledge Cutoffs.** A multi-model search agent that synthesizes real-time web results into structured intelligence.
+### 📈 [ZERODHA TRADING — FINTECH CLONE](https://chiranjeeb-dash-git.github.io/Zerodha-/)
+> **Real-Time Market Execution.** A professional trading dashboard with live WebSockets data and automated P&L tracking.
+
+- **Stack:** React.js · WebSockets · Fintech Data Models · Async Fetching
+- [**View Trading Desk**](https://chiranjeeb-dash-git.github.io/Zerodha-/) 📊
+
+---
+
+### 🌌 [QUANTUM QUERY — AI SEARCH AGENT](https://quantumquery-ai-agent.onrender.com/)
+> **Real-Time Data Synthesis.** An AI-integrated search platform that synthesizes live web results into structured intelligence.
 
 - **Stack:** Multi-Model Routing · Tavily AI · Zod Schema Validation
-- **Status:** Integrated real-time inference tracking with auto-correcting feedback loops.
 - [**Launch Agent**](https://quantumquery-ai-agent.onrender.com/) ⚡
 
 ---
@@ -72,10 +79,10 @@ Building autonomous, stateful AI systems that don't just "chat," but **execute t
 
 ---
 
-## 🎯 2026 FOCUS
-- **Multi-Agent Orchestration:** Moving from simple RAG to Agentic Workflows.
-- **n8n / Auto-GPT:** Building low-code AI pipelines for massive scale.
-- **Web3 AI:** Exploring decentralized LLM nodes.
+## 🎓 EDUCATION & CREDENTIALS
+- 🎓 **B.Tech (CSE)** — Biju Patnaik University of Technology (BPUT)
+- 🏅 Full Stack MERN Development Specialist
+- 🏅 Advanced AI-Integration in Web Environments
 
 ---
 
