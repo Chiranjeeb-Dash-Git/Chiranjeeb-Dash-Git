@@ -15,13 +15,16 @@ Specializing in the **MERN Stack** with a focus on seamless **AI Integration**, 
 
 ---
 
-## 🛠️ ARCHITECTURE & TECH STACKS
+## 🛠️ CORE ARCHITECTURE
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap,mui,framer" /><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman,graphql,apollo" /><br>
-  <img src="https://skillicons.dev/icons?i=js,ts,py,docker,vercel,github,git" />
-</p>
+### 💻 Frontend & UI/UX
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap,mui,framer" />
+
+### ⚙️ Backend & Systems
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,apollo,postman,npm" />
+
+### 🧠 AI & Cloud Database
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,vercel,github,git" />
 
 ---
 
