@@ -45,4 +45,38 @@
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap,mui,framer&theme=dark)](https://skillicons.dev)
 
 ### ⚡ Backend & Logic
-[![
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,graphql,apollo,postman,npm&theme=dark)](https://skillicons.dev)
+
+### 🧠 Database & Infrastructure
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,docker,vercel,github,git&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 🎓 EDUCATION & CREDENTIALS
+- 🎓 **B.Tech (CSE)** — Biju Patnaik University of Technology (BPUT)
+- 📜 **Full Stack MERN Development Specialist**
+- 🌟 **Advanced AI-Integration in Web Environments**
+- 🤖 **Production AI Agents: LangChain & LangGraph Expert**
+
+---
+
+## 📈 PERFORMANCE TRACKING
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chiranjeeb-Dash-Git&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FF&fire=00F2FF&currStreakNum=00F2FF" width="94%" />
+</p>
+
+---
+
+## 📞 CONNECT WITH ME
+<p align="center">
+  <a href="mailto:chiranjeeb.email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Chiranjeeb-Dash-Git"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FF&height=120&section=footer&animation=twinkle" width="100%"/>
+</p>
