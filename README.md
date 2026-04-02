@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://quantumquery-ai-agent.onrender.com/">
+      <a href="https://quantum-query-ai-agent-89d5md1iv-chiranjeeb-dash-gits-projects.vercel.app/">
         <img src="https://capsule-render.vercel.app/api?type=rect&color=181717&height=150&text=QUANTUM%20QUERY&fontSize=25&fontColor=00F2FF&desc=Agentic%20Search%20Agent&descAlignY=65&descSize=15" />
       </a>
     </td>
@@ -56,7 +56,7 @@
 
 ## 🎓 EDUCATION & CREDENTIALS
 - 🎓 **B.Tech (CSE)** — Biju Patnaik University of Technology (BPUT)
-- 📜 **Full Stack MERN Development Specialist**
+- 📜 **Full Stack MERN Development**
 - 🌟 **Advanced AI-Integration in Web Environments**
 - 🤖 **Production AI Agents: LangChain & LangGraph Expert**
 
