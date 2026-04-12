@@ -37,18 +37,33 @@
 
 ---
 
-## 🛠️ SKILLS
+## 🛠️ SKILLS & EXPERTISE
 
 <div align="center">
 
-### 💠 Frontend & UI/UX
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap,mui,framer&theme=dark)](https://skillicons.dev)
+### 💠 FRONTEND & UI/UX TECHNOLOGIES
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00F2FF&height=60&text=React%20%7C%20Next.js%20%7C%20Tailwind%20%7C%20Bootstrap%20%7C%20MUI%20%7C%20Framer&fontSize=18&fontColor=000000" />
 
-### ⚡ Backend & Logic
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,graphql,apollo,postman,npm&theme=dark)](https://skillicons.dev)
+[![Frontend Stack](https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap,mui,framer&theme=dark)](https://skillicons.dev)
 
-### 🧠 Database & Infrastructure
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,docker,vercel,github,git&theme=dark)](https://skillicons.dev)
+---
+
+### ⚡ BACKEND & API TECHNOLOGIES
+<img src="https://capsule-render.vercel.app/api?type=rect&color=181717&height=60&text=Node.js%20%7C%20Express%20%7C%20GraphQL%20%7C%20Apollo%20%7C%20REST&fontSize=18&fontColor=00F2FF" />
+
+[![Backend Stack](https://skillicons.dev/icons?i=nodejs,express,graphql,apollo,postman,npm&theme=dark)](https://skillicons.dev)
+
+---
+
+### 🧠 DATABASE & INFRASTRUCTURE TECHNOLOGIES
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00F2FF&height=60&text=MongoDB%20%7C%20MySQL%20%7C%20Docker%20%7C%20Vercel%20%7C%20GitHub&fontSize=18&fontColor=000000" />
+
+[![Database & DevOps Stack](https://skillicons.dev/icons?i=mongodb,mysql,docker,vercel,github,git&theme=dark)](https://skillicons.dev)
+
+---
+
+### 🤖 AI & ADVANCED TECHNOLOGIES
+<img src="https://capsule-render.vercel.app/api?type=rect&color=181717&height=60&text=LangChain%20%7C%20LangGraph%20%7C%20Groq%20AI%20%7C%20OpenAI%20APIs&fontSize=18&fontColor=00F2FF" />
 
 </div>
 
