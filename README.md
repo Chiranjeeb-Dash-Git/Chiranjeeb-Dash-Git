@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FF&height=250&section=header&text=✨%20CHIRANJEEB%20DASH%20✨&fontSize=70&animation=fadeIn&fontColor=000000&fontAlignY=35" />
 </p>
 
-# <p align="center">🚀 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=NEXT-GEN+FULLStack+DEVELOPER;AI-INTEGRATED+MERN+ARCHITECT;FINTECH+SYSTEMS+EXPERT;SCALABLE+SOFTWARE+ENGINEER" alt="Typing SVG" /> 🚀</p>
+# <p align="center">🚀 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=NEXT-GEN+FULLStack+DEVELOPER;AI-INTEGRATED+MERN+ARCHITECT;SCALABLE+SOFTWARE+ENGINEER" alt="Typing SVG" /> 🚀</p>
 
 ---
 
