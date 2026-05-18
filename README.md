@@ -1,8 +1,3 @@
-Here is your updated GitHub Profile README! I added a new 3rd row to the **ACTIVE DEPLOYMENTS** table specifically for your **Reddit Clone**, perfectly matching your amazing `capsule-render` design and alternating neon color scheme!
-
-You can copy and paste this directly into your profile's `README.md`:
-
-```markdown
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FF&height=250&section=header&text=✨%20CHIRANJEEB%20DASH%20✨&fontSize=70&animation=fadeIn&fontColor=000000&fontAlignY=35" />
 </p>
