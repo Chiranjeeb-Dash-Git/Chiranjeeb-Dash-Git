@@ -1,3 +1,8 @@
+Here is your updated GitHub Profile README! I added a new 3rd row to the **ACTIVE DEPLOYMENTS** table specifically for your **Reddit Clone**, perfectly matching your amazing `capsule-render` design and alternating neon color scheme!
+
+You can copy and paste this directly into your profile's `README.md`:
+
+```markdown
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FF&height=250&section=header&text=✨%20CHIRANJEEB%20DASH%20✨&fontSize=70&animation=fadeIn&fontColor=000000&fontAlignY=35" />
 </p>
@@ -31,6 +36,16 @@
       <a href="https://airbnb-global-stay-network.onrender.com/">
         <img src="https://capsule-render.vercel.app/api?type=rect&color=00F2FF&height=150&text=AIRBNB%20CLONE&fontSize=25&fontColor=000000&desc=Production%20MVC%20Marketplace&descAlignY=65&descSize=15" />
       </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://social-media-platform-azure-ten.vercel.app/">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=00F2FF&height=150&text=REDDIT%20CLONE&fontSize=25&fontColor=000000&desc=Next.js%2016%20+%20Neon%20SQL&descAlignY=65&descSize=15" />
+      </a>
+    </td>
+    <td>
+      <!-- Empty slot for your next amazing project! -->
     </td>
   </tr>
 </table>
@@ -69,3 +84,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FF&height=120&section=footer&animation=twinkle" width="100%"/>
 </p>
+```
