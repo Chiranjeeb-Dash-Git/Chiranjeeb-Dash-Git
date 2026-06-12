@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 ACTIVE DEPLOYMENTS (Vercel & Render)
+## 🚀 ACTIVE DEPLOYMENTS (Vercel & Render & Railway)
 
 <table align="center">
   <tr>
@@ -40,7 +40,9 @@
       </a>
     </td>
     <td>
-      <!-- Empty slot for your next amazing project! -->
+      <a href="https://document-manager-frontend-production.up.railway.app/">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=181717&height=150&text=DOCUMENT%20MANAGER&fontSize=25&fontColor=00F2FF&desc=Full-Stack%20Document%20Suite&descAlignY=65&descSize=15" />
+      </a>
     </td>
   </tr>
 </table>
@@ -79,4 +81,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FF&height=120&section=footer&animation=twinkle" width="100%"/>
 </p>
-```
