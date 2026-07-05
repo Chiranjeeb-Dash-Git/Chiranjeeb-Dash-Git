@@ -45,6 +45,13 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://smart-naff5gjfr-chiranjeeb-dash-gits-projects.vercel.app/">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=181717&height=150&text=SMART%20ERP&fontSize=25&fontColor=00F2FF&desc=Next.js%20+%20Neon%20SQL&descAlignY=65&descSize=15" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
