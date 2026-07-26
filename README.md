@@ -51,6 +51,11 @@
         <img src="https://capsule-render.vercel.app/api?type=rect&color=181717&height=150&text=SMART%20ERP&fontSize=25&fontColor=00F2FF&desc=Next.js%20+%20Neon%20SQL&descAlignY=65&descSize=15" />
       </a>
     </td>
+    <td>
+      <a href="https://insuranceplatform-rho.vercel.app/">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=00F2FF&height=150&text=INSURANCE%20PLATFORM&fontSize=23&fontColor=000000&desc=React%2019%20+%20Express%20+%20Prisma&descAlignY=65&descSize=15" />
+      </a>
+    </td>
   </tr>
 </table>
 
