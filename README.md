@@ -24,7 +24,7 @@
   <tr>
     <td>
       <a href="https://quantum-query-ai-agent.vercel.app/">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=181717&height=150&text=QUANTUM%20QUERY&fontSize=25&fontColor=00F2FF&desc=Agentic%20Search%20Agent&descAlignY=65&descSize=15" />
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=181717&height=150&text=QUANTUM%20QUERY&fontSize=25&fontColor=00F2FF&desc=Agentic%20Search%20&CodeReviewr&descAlignY=65&descSize=15" />
       </a>
     </td>
     <td>
