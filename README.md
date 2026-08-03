@@ -36,7 +36,7 @@
   <tr>
     <td>
       <a href="https://social-media-platform-azure-ten.vercel.app/">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=00F2FF&height=150&text=REDDIT%20CLONE&fontSize=25&fontColor=000000&desc=Next.js%2016%20+%20Neon%20SQL&descAlignY=65&descSize=15" />
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=00F2FF&height=150&text=SOCIAL%20PLATFORM&fontSize=25&fontColor=000000&desc=Next.js%2016%20+%20Neon%20SQL&descAlignY=65&descSize=15" />
       </a>
     </td>
     <td>
