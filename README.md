@@ -4,6 +4,12 @@
 
 # <p align="center">🚀 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=NEXT-GEN+FULLStack+DEVELOPER;AI-INTEGRATED+MERN+ARCHITECT;SCALABLE+SOFTWARE+ENGINEER" alt="Typing SVG" /> 🚀</p>
 
+<p align="center">
+  <a href="https://chiranjeeb-portfolio.vercel.app/">
+    <img src="https://raw.githubusercontent.com/Chiranjeeb-Dash-Git/Portfolio/main/assets/live-portfolio-button.svg" alt="View live portfolio" />
+  </a>
+</p>
+
 ---
 
 ## 🚀 ACTIVE DEPLOYMENTS (Vercel & Render & Railway)
