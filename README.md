@@ -63,6 +63,13 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://examify-hub-seven.vercel.app/">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=00F2FF&height=150&text=EXAMIFY%20HUB&fontSize=25&fontColor=000000&desc=Assessment%20OS%20+%20AI%20Telemetry%20+%20Vercel&descAlignY=65&descSize=15" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
