@@ -1,16 +1,41 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FF&height=250&section=header&text=✨%20CHIRANJEEB%20DASH%20✨&fontSize=70&animation=fadeIn&fontColor=000000&fontAlignY=35" />
-</p>
+<!-- Pulsing Red Glow Filter -->
+  <filter id="neonPulse" x="-50%" y="-50%" width="200%" height="200%">
+    <feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#FF1E56" flood-opacity="0.9">
+      <animate attributeName="stdDeviation" values="4;14;4" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="flood-color" values="#FF1E56;#FF4B4B;#FF0055;#FF1E56" dur="2.4s" repeatCount="indefinite"/>
+    </feDropShadow>
+  </filter>
 
-# <p align="center">🚀 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=NEXT-GEN+FULLStack+DEVELOPER;AI-INTEGRATED+MERN+ARCHITECT;SCALABLE+SOFTWARE+ENGINEER" alt="Typing SVG" /> 🚀</p>
+  <!-- Shimmering Red-to-White Text Gradient -->
+  <linearGradient id="textRedShimmer" x1="-100%" y1="0%" x2="200%" y2="0%">
+    <stop offset="0%" stop-color="#FF1E56"/>
+    <stop offset="45%" stop-color="#FF4B4B"/>
+    <stop offset="50%" stop-color="#FFFFFF"/>
+    <stop offset="55%" stop-color="#FF4B4B"/>
+    <stop offset="100%" stop-color="#FF1E56"/>
+    <animate attributeName="x1" values="-100%;100%" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="x2" values="0%;200%" dur="3s" repeatCount="indefinite"/>
+  </linearGradient>
 
-<p align="center">
-  <a href="https://chiranjeeb-portfolio.vercel.app/">
-    <img src="https://raw.githubusercontent.com/Chiranjeeb-Dash-Git/Portfolio/main/assets/live-portfolio-button.svg" alt="View live portfolio" />
-  </a>
-</p>
+  <!-- Circular Avatar Mask -->
+  <clipPath id="circleAvatar">
+    <circle cx="130" cy="110" r="65" />
+  </clipPath>
+</defs>
 
----
+<!-- Background Box -->
+<rect width="900" height="220" rx="20" fill="url(#darkBg)" stroke="#FF1E56" stroke-width="1.5" stroke-opacity="0.5"/>
+
+<!-- Glowing Animated Red Ring -->
+<circle cx="130" cy="110" r="70" fill="none" stroke="#FF1E56" stroke-width="3.5" filter="url(#neonPulse)"/>
+
+<!-- Avatar Photo -->
+<image href="https://avatars.githubusercontent.com/u/180313099?v=4" x="65" y="45" width="130" height="130" clip-path="url(#circleAvatar)" />
+
+<!-- Big Animated CHIRANJEEB DASH Text -->
+<text x="240" y="125" font-family="'Orbitron', 'Space Grotesk', system-ui, sans-serif" font-size="46" font-weight="900" letter-spacing="4" fill="url(#textRedShimmer)" filter="url(#neonPulse)">
+  CHIRANJEEB DASH
+</text>
 
 ## 🚀 ACTIVE DEPLOYMENTS (Vercel & Render & Railway)
 
