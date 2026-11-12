@@ -17,13 +17,13 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://full-stack-gen-ai-assistant.vercel.app/">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=00F2FF&height=150&text=GEN-AI%20ASSISTANT&fontSize=25&fontColor=000000&desc=MERN%20+%20Groq%20AI&descAlignY=65&descSize=15" />
+      <a href="https://gitsummarizer-puce.vercel.app/">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=00F2FF&height=150&text=GITSUMMARIZER&fontSize=25&fontColor=000000&desc=AI%20Repo%20Intelligence%20+%20MERN&descAlignY=65&descSize=15" />
       </a>
     </td>
     <td>
-      <a href="https://chiranjeeb-dash-git.github.io/Zerodha-/">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=181717&height=150&text=ZERODHA%20CLONE&fontSize=25&fontColor=00F2FF&desc=Fintech%20+%20WebSockets&descAlignY=65&descSize=15" />
+      <a href="https://full-stack-gen-ai-assistant.vercel.app/">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=181717&height=150&text=GEN-AI%20ASSISTANT&fontSize=25&fontColor=00F2FF&desc=MERN%20+%20Groq%20AI&descAlignY=65&descSize=15" />
       </a>
     </td>
   </tr>
@@ -34,8 +34,8 @@
       </a>
     </td>
     <td>
-      <a href="https://airbnb-global-stay-network.onrender.com/">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=00F2FF&height=150&text=AIRBNB%20CLONE&fontSize=25&fontColor=000000&desc=Production%20MVC%20Marketplace&descAlignY=65&descSize=15" />
+      <a href="https://chiranjeeb-dash-git.github.io/Zerodha-/">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=00F2FF&height=150&text=ZERODHA%20CLONE&fontSize=25&fontColor=000000&desc=Fintech%20+%20WebSockets&descAlignY=65&descSize=15" />
       </a>
     </td>
   </tr>
@@ -74,6 +74,14 @@
         <img src="https://capsule-render.vercel.app/api?type=rect&color=00F2FF&height=150&text=CLOUD%20FS&fontSize=25&fontColor=000000&desc=Cloud%20Storage%20&%20Sharing%20Suite&descAlignY=65&descSize=15" />
       </a>
     </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://airbnb-global-stay-network.onrender.com/">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=00F2FF&height=150&text=AIRBNB%20CLONE&fontSize=25&fontColor=000000&desc=Production%20MVC%20Marketplace&descAlignY=65&descSize=15" />
+      </a>
+    </td>
+    <td></td>
   </tr>
 </table>
 
