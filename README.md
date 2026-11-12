@@ -18,7 +18,7 @@
   <tr>
     <td>
       <a href="https://gitsummarizer-puce.vercel.app/">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=00F2FF&height=150&text=GITSUMMARIZER&fontSize=25&fontColor=000000&desc=AI%20Repo%20Intelligence%20+%20MERN&descAlignY=65&descSize=15" />
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=00F2FF&height=150&text=GIT_SUMMARIZER&fontSize=25&fontColor=000000&desc=AI%20Repo%20Intelligence%20+%20MERN&descAlignY=65&descSize=15" />
       </a>
     </td>
     <td>
